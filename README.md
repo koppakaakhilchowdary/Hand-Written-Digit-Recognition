@@ -19,5 +19,3 @@ This project implements a **real-time object detection system** using **YOLO (Yo
 - **Tools:** Jupyter Notebook / VS Code for development and testing  
 
 ---
-
-## 📂 Repository Structure (Suggested)
